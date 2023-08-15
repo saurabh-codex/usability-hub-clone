@@ -1,0 +1,12 @@
+ /* media-queries */
+
+ @media screen and (max-width: 991px) {
+    .nav-toogle{
+        display: block;
+        margin-right: 20px;
+    }
+   .nav-link{
+    display:none;
+   }
+   
+ }
